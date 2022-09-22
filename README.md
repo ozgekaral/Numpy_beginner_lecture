@@ -12,6 +12,9 @@ For instance;
 
 
 
-#### for who is beginner in Function become to help.
+
+
+
+#### for who is beginner in Numpy to help.
 
 ##### Please,give me feedback to makes me happy and or ıf find the mistake.You realize.
