@@ -1,4 +1,4 @@
-# numpy_beginner
+# Numpy Hands-On Lectures For Beginners
 ## Define a numpy array ##
 ## Numeric Operation in Numpy ##
 ## Built - in functions in Numpy
