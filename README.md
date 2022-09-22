@@ -5,3 +5,13 @@ For instance;
 * Numeric Operation in Numpy
 * Built - in functions in Numpy
 * Answer two math equation more time
+
+
+
+
+
+
+
+#### for who is beginner in Function become to help.
+
+##### Please,give me feedback to makes me happy and or ıf find the mistake.You realize.
