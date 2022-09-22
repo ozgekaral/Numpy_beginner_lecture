@@ -1,5 +1,5 @@
 # Numpy Hands-On Lectures For Beginners
-## Including lots of hands-on knowledge about Python.
+## Including lots of hands-on knowledge about Numpy.
 For instance;
 * Define a numpy array 
 * Numeric Operation in Numpy
